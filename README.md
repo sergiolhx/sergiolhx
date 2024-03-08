@@ -6,7 +6,7 @@ You've just discovered me! I'm Gio
 - 💡 Other Interest: Supply Chain Management
 
 
-📂 Project Portofolio 👉🏻[**Click here!**](https://github.com/faizns/Faizs-Data-Portofolio)👈🏻
+📂 Project Portofolio 👉🏻[**Click here!**](https://github.com/sergiolhx/data_analysis_portfolio)👈🏻
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sergiolhx)
 [<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:sergiolhx@gmail.com)
